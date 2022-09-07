@@ -14,7 +14,8 @@
   "devDependencies": {},
   "dependencies": {
     "html2canvas": "^1.1.4",
-    "onscan.js": "^1.5.2"
+    "onscan.js": "^1.5.2",
+    "sortablejs": "^1.15.0"
   },
   "scripts": {}
 }
